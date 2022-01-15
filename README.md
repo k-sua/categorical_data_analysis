@@ -1,6 +1,6 @@
 # Categorical Data Analysis
 
-Performed categorical data analysis on employee attrition and happiness data 1972-2006 with R to answer the following research questions . 
+Performed categorical data analysis on employee attrition and happiness data 1972-2006 with R to answer the following research questions. The code and pdf file of the detailed description of the analysis is provided.  
 
 ---
 ### Employee Attrition
