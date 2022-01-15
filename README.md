@@ -1,6 +1,6 @@
 # Categorical Data Analysis
 
-Performed categorical data analysis on employee attrition and happiness data 1972-2006 with R to answer the following research questions. 
+Performed categorical data analysis on employee attrition and happiness data 1972-2006 with R to answer the following research questions . 
 
 ---
 ### Employee Attrition
@@ -16,6 +16,13 @@ Performed categorical data analysis on employee attrition and happiness data 197
 - What is the association between health, and relative financial status?
 
 ---
+The statistical models and tools are used in the analysis. 
+
+- Logistic regression: Baseline-Category Logit Model and Cumulative Logit Model
+- Loglinear regression: Linear-by-Linear model
+- Goodness of fit test
+- Backward stepwise Algorithm: AIC
+- ROC curve
 
 ## Description
 
@@ -24,6 +31,9 @@ The employee attrition dataset is a fictional data set created by IBM data scien
 ## Links
 - https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - https://www.rdocumentation.org/packages/GGally/versions/1.5.0/topics/happy 
+
+## Executing Program
+Download R version 4.1.0
 
 
 
