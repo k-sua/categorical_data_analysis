@@ -20,7 +20,7 @@ The statistical models and tools are used in the analysis.
 
 - Logistic regression: Baseline-Category Logit Model and Cumulative Logit Model
 - Loglinear regression: Linear-by-Linear model
-- Goodness of fit test
+- Chi-Square Goodness of fit test
 - Backward stepwise Algorithm: AIC
 - ROC curve
 
