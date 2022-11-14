@@ -33,8 +33,12 @@ The employee attrition dataset is a fictional data set created by IBM data scien
 - https://www.rdocumentation.org/packages/GGally/versions/1.5.0/topics/happy 
 
 ## Executing Program
-Download R version 4.1.0
+Download R version (>=4.1.0)
 
+Imports:
+* pROC (>=1.18.0)
+* productplots (>=0.1.1)
+* VGAM (>=1.1-7)
 
 
 
